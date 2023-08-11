@@ -11,6 +11,7 @@ import Section6 from './components/Section6/Section6'
 import Section7 from './components/Section7/Section7'
 import Section8 from './components/Section8/Section8'
 import Section9 from './components/Section9/Section9'
+import Index from './components/Index/Index'
 
 import './App.css'
 
@@ -36,6 +37,7 @@ function App () {
         <Section7 />
         <Section8 />
         <Section9 />
+        <Index />
       </main>
     </>
   )
